@@ -1,0 +1,52 @@
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ── Jupyter notebooks (keep .py, ignore checkpoints) ─────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Model weights (too large for GitHub — host on HuggingFace/Drive if needed)─
+*.pt
+*.pth
+*.h5
+*.pkl
+*.joblib
+*.ckpt
+
+# ── Data files (too large) ────────────────────────────────────────────────────
+*.csv
+*.parquet
+*.hdf5
+*.h5
+*.npy
+*.npz
+data/
+
+# ── API keys and secrets ──────────────────────────────────────────────────────
+.env
+.env.local
+secrets.toml
+.streamlit/secrets.toml
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
