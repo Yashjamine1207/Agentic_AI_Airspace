@@ -9,7 +9,7 @@
 
 ## 📖 Table of Contents
 
-1. [What Is This Project? (Plain English)](#1-what-is-this-project-plain-english)
+1. [What Is This Project?](#1-what-is-this-project-plain-english)
 2. [Why Was This Built?](#2-why-was-this-built)
 3. [The Problem It Solves](#3-the-problem-it-solves)
 4. [How Does It Work? (Simple Explanation)](#4-how-does-it-work-simple-explanation)
@@ -25,7 +25,7 @@
 
 ---
 
-## 1. What Is This Project? (Plain English)
+## 1. What Is This Project?
 
 Imagine you are a pilot flying from San Francisco to Los Angeles. Right now, your route is fixed — a rigid corridor in the sky that you must follow no matter what the weather is doing, how strong the wind is, or whether the military has temporarily closed part of the airspace.
 
