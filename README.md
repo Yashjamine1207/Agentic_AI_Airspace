@@ -1,7 +1,7 @@
 # ✈️ Agentic Airspace
 ### RAG-Driven Multi-Agent Reinforcement Learning for Dynamic 3D Flight Routing with Physics-Surrogate Fuel Optimisation
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yashjamine1207-agentic-ai-airspace-streamlit-app-7fwkmz.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
